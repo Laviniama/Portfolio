@@ -36,9 +36,9 @@ O site foi construído utilizando uma variedade de tecnologias e ferramentas mod
 
 Estou aberta a colaborações e feedback. Se você tiver sugestões ou quiser discutir possíveis projetos, por favor, entre em contato comigo:
 
-- **Site**: [laviniamartins.com](https://www.laviniamartins.com)  
-- **Email**: [contato@laviniamartins.com](mailto:contato@laviniamartins.com)  
-- **LinkedIn**: [Lavínia Martins](https://www.linkedin.com/in/laviniamartins)  
-- **GitHub**: [Laviniama](https://github.com/Laviniama)  
+- **Site**: [laviniama.github.io/portfolio](https://laviniama.github.io/portfolio/)  
+- **Email**: [laviniamartins407@gmail.com](mailto:laviniamartins407@gmail.com)  
+- **LinkedIn**: [Lavínia Martins](https://www.linkedin.com/in/lav%C3%ADnia-martins-1a579b24b/)  
+- **GitHub**: [Laviniama](https://github.com/Laviniama)
 
 Obrigado por visitar meu portfólio!
