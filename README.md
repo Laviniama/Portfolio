@@ -1,7 +1,7 @@
 # Lavínia Martins │ Portfolio
 
 # Imagem do Projeto
-![imagem do projeto](./assets/image/favicon-lavinia.ico "Portfólio Lavínia Martins")
+![imagem do projeto](./assets/image/favicon-lavia.ico "Portfólio Lavínia Martins")
 
 Este repositório contém o código-fonte do meu site pessoal de portfólio, o Lavínia Martins. É uma vitrine digital onde apresento minhas habilidades e projetos como Analista de Dados. O site demonstra minha abordagem ao desenvolvimento web, focando em design responsivo, interatividade e experiências de usuário otimizadas.
 
