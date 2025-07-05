@@ -71,11 +71,12 @@ input::-webkit-inner-spin-button {
 }
 
 :root {
-    --blue: #007BFF;
+    --blue: #6600FF;
     --black: #050505;
     --white: #fafafa;
     --gray: #c9c9c9;
 }
+
 
 body {
     font-family: "Roboto", sans-serif;
